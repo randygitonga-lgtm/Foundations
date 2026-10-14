@@ -1,0 +1,8 @@
+pwd-> Wher am i from a perspective of the current location (directory)
+ls-> What is  present in the currently accused directory and is publicly visible
+ls -a(linux) is -Force(windows)-> What is present in te currently accessed directory and i hidden
+cd -> Allows one to navigate to a specific foler
+cd .. -> Allows one to navigate step behind (to the paren folder)
+cd folder-name -> Allows one to  navigate to a specific folder-name
+mkdir folder-name -> Allows you to create a folder in a specific directory
+touch file-name(linux) windows(new-item progres.txt) -> Allows you to createa file in the specific directory
